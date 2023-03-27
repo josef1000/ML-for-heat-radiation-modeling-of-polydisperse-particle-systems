@@ -4,6 +4,8 @@
 
 * Random Forest-based regressor models can be downloaded here: https://cloud.tugraz.at/index.php/s/q9FymHBKxWQ7icY
 
+* The four inputs of the models are: $(r_j / |\mathbf{x}\_{i-j}|, \ n_{pib,i-j,r_{max}}, \ r_j/r_i, \ \phi_{p,sys})$ 
+
 * The output of the models is the view factor directly, however for numerical reasons the target view factors in training were min-max normalized and subsequently the model output need to be de-normalized for usage.
 
 * The radiative heat flux between two particles, where $\varepsilon\_{i-j}$ describes the view factor between emitting particle $i$ and absorbing particle $j$, can then be calculated based on the view factor by:
