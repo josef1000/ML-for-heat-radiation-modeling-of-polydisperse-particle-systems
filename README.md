@@ -1,6 +1,6 @@
 # ML-for-heat-radiation-modeling-of-polydisperse-particle-systems
 
-* All Machine Learning-based models (except Random Forest-based regressors) discussed in publication J. Tausendschön, G. Stöckl, S. Radl, Machine Learning for heat radiation modeling of bi- and polydisperse particle systems including walls, Particuology. 74 (2023) 119–140. See https://doi.org/10.1016/j.partic.2022.05.011 .
+* All Machine Learning-based models (except Random Forest-based regressors) discussed in publication: J. Tausendschön, G. Stöckl, S. Radl, Machine Learning for heat radiation modeling of bi- and polydisperse particle systems including walls, Particuology. 74 (2023) 119–140, are stored in this repository. See https://doi.org/10.1016/j.partic.2022.05.011 .
 
 * Random Forest-based regressor models can be downloaded here: https://cloud.tugraz.at/index.php/s/q9FymHBKxWQ7icY
 
