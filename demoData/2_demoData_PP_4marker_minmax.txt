@@ -1,0 +1,8 @@
+maxY used for normalization:
+0.2108413
+minY used for normalization:
+0.0000000
+xmax used for normalization
+[ 0.79447273 33.          2.5         0.55412932]
+xmin used for normalization
+[0.01530295 0.         0.4        0.19921297]
